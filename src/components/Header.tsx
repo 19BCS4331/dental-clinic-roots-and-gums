@@ -68,7 +68,7 @@ export default function Header() {
               className="relative z-10 transition-transform hover:scale-105 active:scale-95"
             >
               <Image
-                src="/images/logo.png"
+                src={siteConfig.logo}
                 alt="Logo"
                 width={150}
                 height={40}
