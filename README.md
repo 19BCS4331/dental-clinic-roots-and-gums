@@ -1,36 +1,83 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Dental Clinic Website Template
 
-## Getting Started
+A modern, customizable dental clinic website template built with Next.js 14, Tailwind CSS, and Framer Motion. This template is designed to be easily forked and customized for different dental practices.
 
-First, run the development server:
+## Features
 
+- 🎨 Modern and clean design
+- 📱 Fully responsive layout
+- ⚡ Fast performance with Next.js 14
+- 🎭 Smooth animations with Framer Motion
+- 🎯 SEO optimized
+- 💅 Styled with Tailwind CSS
+- 📝 Easy content management through siteConfig.json
+- 🔍 Google Maps integration
+- 💬 WhatsApp integration
+- 📅 Google Forms integration for appointments
+
+## Quick Start
+
+1. Fork this repository
+2. Clone your forked repository
+3. Install dependencies:
+```bash
+npm install
+# or
+yarn install
+```
+
+4. Update the configuration:
+   - Edit `src/config/siteConfig.json` with your clinic's information
+   - Replace images in `public/images/`
+   - Update Google Maps URL in siteConfig.json
+   - Update Google Forms URL in siteConfig.json
+   - Update WhatsApp number and message in siteConfig.json
+
+5. Run the development server:
 ```bash
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+6. Open [http://localhost:3000](http://localhost:3000) to see your website
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Customization
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Content
+All website content is managed through `src/config/siteConfig.json`. This includes:
+- Site name and description
+- Navigation links
+- Hero section content
+- Services
+- Contact information
+- WhatsApp integration
+- Google Maps URL
+- Google Forms URL
 
-## Learn More
+### Styling
+- Colors: Edit `tailwind.config.js` to change the color scheme
+- Typography: Update font settings in `src/app/layout.tsx`
+- Components: Modify individual components in `src/components/`
 
-To learn more about Next.js, take a look at the following resources:
+### Images
+Replace the following images in `public/images/`:
+- `logo.png`: Your clinic's logo
+- `main_bg_image.jpg`: Hero section background
+- Service images as referenced in siteConfig.json
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Deployment
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+The easiest way to deploy your website is using [Vercel](https://vercel.com):
 
-## Deploy on Vercel
+1. Push your code to GitHub
+2. Import your repository to Vercel
+3. Deploy
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This template is MIT licensed. Feel free to use it for your dental clinic website.
+
+## Support
+
+If you need help customizing this template for your dental clinic, please reach out to me at [your-email].

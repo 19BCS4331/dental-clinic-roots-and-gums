@@ -1,0 +1,200 @@
+{
+  "siteName": "Winning Smile",
+  "siteDescription": "Professional dental care services with a gentle touch",
+  "navigation": {
+    "links": [
+      { "name": "Home", "href": "/" },
+      { "name": "About", "href": "/about" },
+      { "name": "Services", "href": "/services" },
+      { "name": "Testimonials", "href": "/testimonials" },
+      { "name": "Contact", "href": "/contact" }
+    ],
+    "cta": {
+      "text": "Book Appointment",
+      "href": "/book-appointment"
+    }
+  },
+  "hero": {
+    "welcomeText": "Welcome to Modern Dentistry",
+    "title": "Your Perfect, Winning Smile",
+    "subtitle": "Begins Here",
+    "description": "Experience exceptional dental care in a comfortable and modern environment. Our expert team is dedicated to your oral health and beautiful smile.",
+    "image": "/images/main_bg_image.jpg",
+    "imageAlt": "Professional dental care",
+    "cta": {
+      "primary": {
+        "text": "Book Appointment",
+        "link": "/book-appointment"
+      },
+      "secondary": {
+        "text": "Our Services",
+        "link": "/services"
+      }
+    }
+  },
+  "contact": {
+    "phone": "+919869909257",
+    "email": "info@winningsmile.com",
+    "address": "G-wing, Sterling Court Apartment, INSIDE GANESH KUNJ BUILDING , ground floor Shop no7 Near, opposite Pearl Heaven Chandiwala Complex, Maheshwari Nagar, Andheri East, Mumbai, Maharashtra 400069",
+    "socialLinks": {
+      "facebook": "/",
+      "instagram": "/",
+      "twitter": "/"
+    },
+    "whatsapp": "+919869909257",
+    "googleMapsUrl": "https://www.google.com/maps/embed/v1/place?q=Winning+smiles,+andheri+east&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8",
+    "googleFormsUrl": "https://forms.gle/wQ84tVEtmB4zpjsn8",
+    "section": {
+      "title": "Get in Touch",
+      "description": "We're here to help. Contact us for any inquiries or to schedule your appointment.",
+      "whatsappMessage": "Hi! I would like to schedule an appointment.",
+      "whatsappButtonText": "Chat on WhatsApp",
+      "bookAppointmentText": "Book Appointment"
+    },
+    "hours": "10:00 AM - 8:00 PM"
+  },
+  "theme": {
+    "name": "modern",
+    "colorScheme": "blue",
+    "fonts": {
+      "heading": "Playfair Display",
+      "body": "Inter"
+    },
+    "colors": {
+      "primary": {
+        "50": "#f0f9ff",
+        "500": "#0ea5e9",
+        "700": "#0369a1"
+      },
+      "secondary": {
+        "50": "#f8fafc",
+        "500": "#64748b",
+        "700": "#334155"
+      }
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "We offer a comprehensive range of dental services to meet all your oral health needs",
+    "items": [
+      {
+        "id": "general-dentistry",
+        "title": "General Dentistry",
+        "description": "Comprehensive dental care for the whole family",
+        "icon": "tooth",
+        "features": [
+          "Regular Check-ups",
+          "Dental Cleaning",
+          "Cavity Fillings",
+          "Root Canal Treatment"
+        ],
+        "image": "/images/general_dentistry.jpg"
+      },
+      {
+        "id": "cosmetic-dentistry",
+        "title": "Cosmetic Dentistry",
+        "description": "Transform your smile with our advanced cosmetic treatments",
+        "icon": "sparkles",
+        "features": [
+          "Teeth Whitening",
+          "Dental Veneers",
+          "Dental Bonding",
+          "Smile Makeover"
+        ],
+        "image": "/images/cosmetic_dentistry.jpg"
+      },
+      {
+        "id": "orthodontics",
+        "title": "Orthodontics",
+        "description": "Achieve a perfectly aligned smile with our orthodontic solutions",
+        "icon": "adjustments",
+        "features": [
+          "Braces",
+          "Clear Aligners",
+          "Retainers",
+          "Bite Correction"
+        ],
+        "image": "/images/orthodontics.jpg"
+      }
+    ],
+    "icons": {
+      "tooth": {
+        "path": "M4.5 12.5l3-3m0 0l3 3m-3-3v7m6-7l3-3m0 0l3 3m-3-3v7"
+      },
+      "sparkles": {
+        "path": "M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z"
+      },
+      "adjustments": {
+        "path": "M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"
+      }
+    }
+  },
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Kamini",
+      "rating": 5,
+      "comment": "Excellent treatment for almost all Teeth related problems. Great staff and Doctors. Doctor's assistant is very helpful and nice. Thank you specially to Dr.Aarathi S for right guidance and advice. Good clinic ambience and Sterlization seperate room and strict protocols followed. Recommend for value dental care DR.AARATHIS WINNING SMILE MULTISPECIALITY DENTAL CARE CLINIC.",
+      "image": "/images/Kamini.png"
+    },
+    {
+      "id": 2,
+      "name": "Bharat",
+      "rating": 5,
+      "comment": "Dr Aarathi has decades of experience. She explained the treatment very nicely and cleared all doubts related to tooth problem. She kept following up with me throughout the treatment and ensured no discomfort. Clinic ambience is very good with soft music in the background. Overall, a good experience. Thank you!",
+      "image": "/images/Bharat.png"
+    },
+    {
+      "id": 3,
+      "name": "Payal",
+      "rating": 5,
+      "comment": "I used to be so scared of visiting the dentist, but she has been incredibly patient with me. I've had more than five cavities filled, and she made the process much easier.",
+      "image": "/images/Payal.png"
+    },
+    {
+      "id": 4,
+      "name": "Vaibhav",
+      "rating": 5,
+      "comment": "Dr.Aarathi is our family Dentist , our entire family is taking dental treatment and we are very happy last 13years. Good quality treatment and excellent Dental service prvided. Got dental extraction, teeth cleaning done painless,zero pain.",
+      "image": "/images/Vaibhav.png"
+    }
+  ],
+  "about": {
+    "title": "Meet Our Doctor",
+    "description": "She is committed to providing you with the highest quality care in a comfortable environment.",
+    "clinicOverview": {
+      "title": "Modern Facilities",
+      "description": "Experience dental care in our state-of-the-art facility equipped with the latest technology for your comfort and the best possible treatment outcomes.",
+      "image": "/images/dental_interior.jpg",
+      "imageAlt": "Modern dental clinic interior"
+    },
+    "values": [
+      {
+        "title": "Patient-Centric Care",
+        "description": "Your comfort and satisfaction are our top priorities."
+      },
+      {
+        "title": "Latest Technology",
+        "description": "We utilize advanced dental technology for precise and comfortable treatments."
+      },
+      {
+        "title": "Gentle Approach",
+        "description": "Our gentle and caring approach ensures a stress-free dental experience."
+      }
+    ]
+  },
+  "team": [
+    {
+      "id": 1,
+      "name": "Dr. Arti S Bangare",
+      "role": "Lead Dentist",
+      "specialization": "Cosmetic Dentistry",
+      "bio": "Dr. Arti has over 15 years of experience in cosmetic dentistry and is committed to providing the highest quality dental care.",
+      "image": "/images/Doctor_placeholder.jpg"
+    }
+  ],
+  "bookAppointment": {
+    "title": "Book Your Appointment",
+    "description": "Schedule your visit with our dental experts. We'll get back to you within 24 hours to confirm your appointment."
+  }
+}
