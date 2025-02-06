@@ -2,7 +2,6 @@
 
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import Image from 'next/image';
 import siteConfig from '@/config/siteConfig.json';
 
 export default function Contact() {
@@ -87,7 +86,7 @@ export default function Contact() {
               </h2>
 
               <p className="text-lg text-gray-600 mt-4">
-                Have questions or ready to schedule your appointment? We're here to help you achieve your perfect smile.
+                Have questions or ready to schedule your appointment? We&apos;re here to help you achieve your perfect smile.
               </p>
             </div>
 
@@ -252,7 +251,7 @@ export default function Contact() {
                     animate={{ opacity: 1, y: 0 }}
                     className="text-green-600 text-center font-medium"
                   >
-                    Thank you! We'll get back to you soon.
+                    Thank you! We&apos;ll get back to you soon.
                   </motion.div>
                 )}
               </form>

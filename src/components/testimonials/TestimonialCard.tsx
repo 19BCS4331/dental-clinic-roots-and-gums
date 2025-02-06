@@ -54,7 +54,7 @@ export default function TestimonialCard({
         </div>
       </div>
       <div className="relative flex-grow overflow-hidden">
-        <p className="text-gray-600 italic line-clamp-6">"{comment}"</p>
+        <p className="text-gray-600 italic line-clamp-6">&quot;{comment}&quot;</p>
         <div className="absolute bottom-0 left-0 right-0 h-8 bg-gradient-to-t from-white to-transparent pointer-events-none"></div>
       </div>
     </motion.div>
