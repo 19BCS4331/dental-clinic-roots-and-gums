@@ -1,6 +1,6 @@
 {
-  "siteName": "Winning Smile",
-  "siteDescription": "Professional dental care services with a gentle touch",
+  "siteName": "Dentux",
+  "siteDescription": "Advanced dental care with a personal touch",
   "navigation": {
     "links": [
       { "name": "Home", "href": "/" },
@@ -15,12 +15,12 @@
     }
   },
   "hero": {
-    "welcomeText": "Welcome to Modern Dentistry",
-    "title": "Your Perfect, Winning Smile",
-    "subtitle": "Begins Here",
-    "description": "Experience exceptional dental care in a comfortable and modern environment. Our expert team is dedicated to your oral health and beautiful smile.",
+    "welcomeText": "Welcome to Dentux",
+    "title": "Advanced Dental Care",
+    "subtitle": "For Your Family",
+    "description": "Experience state-of-the-art dentistry in a warm and caring environment. Our team of experts is committed to providing you with the highest quality dental care.",
     "image": "/images/main_bg_image.jpg",
-    "imageAlt": "Professional dental care",
+    "imageAlt": "Modern dental care at Dentux",
     "cta": {
       "primary": {
         "text": "Book Appointment",
@@ -33,38 +33,38 @@
     }
   },
   "contact": {
-    "phone": "+919869909257",
-    "email": "info@winningsmile.com",
-    "address": "G-wing, Sterling Court Apartment, INSIDE GANESH KUNJ BUILDING , ground floor Shop no7 Near, opposite Pearl Heaven Chandiwala Complex, Maheshwari Nagar, Andheri East, Mumbai, Maharashtra 400069",
+    "phone": "+911234567890",
+    "email": "care@dentux.com",
+    "address": "123 Dental Plaza, Sector 15, New Delhi, 110001",
     "socialLinks": {
-      "facebook": "/",
-      "instagram": "/",
-      "twitter": "/"
+      "facebook": "https://facebook.com/dentux",
+      "instagram": "https://instagram.com/dentux",
+      "twitter": "https://twitter.com/dentux"
     },
-    "whatsapp": "+919869909257",
-    "googleMapsUrl": "https://www.google.com/maps/embed/v1/place?q=Winning+smiles,+andheri+east&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8",
-    "googleFormsUrl": "https://forms.gle/wQ84tVEtmB4zpjsn8",
+    "whatsapp": "+911234567890",
+    "googleMapsUrl": "https://www.google.com/maps/embed?pb=YOUR_MAPS_EMBED_URL",
+    "googleFormsUrl": "https://forms.gle/YOUR_FORMS_URL",
     "section": {
-      "title": "Get in Touch",
-      "description": "We're here to help. Contact us for any inquiries or to schedule your appointment.",
-      "whatsappMessage": "Hi! I would like to schedule an appointment.",
-      "whatsappButtonText": "Chat on WhatsApp",
-      "bookAppointmentText": "Book Appointment"
+      "title": "Connect with Us",
+      "description": "Have questions? Our friendly team is here to help you achieve optimal dental health.",
+      "whatsappMessage": "Hello! I'd like to schedule an appointment at Dentux.",
+      "whatsappButtonText": "Message Us",
+      "bookAppointmentText": "Schedule Visit"
     },
-    "hours": "10:00 AM - 8:00 PM"
+    "hours": "9:00 AM - 7:00 PM"
   },
   "theme": {
     "name": "modern",
-    "colorScheme": "blue",
+    "colorScheme": "teal",
     "fonts": {
       "heading": "Playfair Display",
       "body": "Inter"
     },
     "colors": {
       "primary": {
-        "50": "#f0f9ff",
-        "500": "#0ea5e9",
-        "700": "#0369a1"
+        "50": "#f0fdfa",
+        "500": "#14b8a6",
+        "700": "#0f766e"
       },
       "secondary": {
         "50": "#f8fafc",
@@ -75,46 +75,46 @@
   },
   "services": {
     "title": "Our Services",
-    "description": "We offer a comprehensive range of dental services to meet all your oral health needs",
+    "description": "Comprehensive dental care using the latest technology and techniques",
     "items": [
       {
         "id": "general-dentistry",
         "title": "General Dentistry",
-        "description": "Comprehensive dental care for the whole family",
+        "description": "Complete family dental care with a focus on prevention",
         "icon": "tooth",
         "features": [
-          "Regular Check-ups",
-          "Dental Cleaning",
-          "Cavity Fillings",
-          "Root Canal Treatment"
+          "Dental Check-ups",
+          "Professional Cleaning",
+          "Cavity Treatment",
+          "Preventive Care"
         ],
         "image": "/images/general_dentistry.jpg"
       },
       {
         "id": "cosmetic-dentistry",
         "title": "Cosmetic Dentistry",
-        "description": "Transform your smile with our advanced cosmetic treatments",
+        "description": "Advanced treatments to enhance your smile",
         "icon": "sparkles",
         "features": [
           "Teeth Whitening",
-          "Dental Veneers",
-          "Dental Bonding",
-          "Smile Makeover"
+          "Porcelain Veneers",
+          "Dental Crowns",
+          "Smile Design"
         ],
         "image": "/images/cosmetic_dentistry.jpg"
       },
       {
         "id": "orthodontics",
         "title": "Orthodontics",
-        "description": "Achieve a perfectly aligned smile with our orthodontic solutions",
+        "description": "Modern solutions for teeth alignment",
         "icon": "adjustments",
         "features": [
-          "Braces",
           "Clear Aligners",
-          "Retainers",
-          "Bite Correction"
+          "Traditional Braces",
+          "Invisalign",
+          "Retainers"
         ],
-        "image": "/images/orthodontics.jpg"
+        "image": "/images/orthodontics.webp"
       }
     ],
     "icons": {
@@ -132,31 +132,24 @@
   "testimonials": [
     {
       "id": 1,
-      "name": "Kamini",
+      "name": "Rahul Sharma",
       "rating": 5,
-      "comment": "Excellent treatment for almost all Teeth related problems. Great staff and Doctors. Doctor's assistant is very helpful and nice. Thank you specially to Dr.Aarathi S for right guidance and advice. Good clinic ambience and Sterlization seperate room and strict protocols followed. Recommend for value dental care DR.AARATHIS WINNING SMILE MULTISPECIALITY DENTAL CARE CLINIC.",
-      "image": "/images/Kamini.png"
+      "comment": "The team at Dentux is exceptional! They made my dental visit comfortable and stress-free.",
+      "image": "/images/testimonial1.jpg"
     },
     {
       "id": 2,
-      "name": "Bharat",
+      "name": "Priya Patel",
       "rating": 5,
-      "comment": "Dr Aarathi has decades of experience. She explained the treatment very nicely and cleared all doubts related to tooth problem. She kept following up with me throughout the treatment and ensured no discomfort. Clinic ambience is very good with soft music in the background. Overall, a good experience. Thank you!",
-      "image": "/images/Bharat.png"
+      "comment": "State-of-the-art facility with caring staff. Best dental experience I've had!",
+      "image": "/images/testimonial2.jpg"
     },
     {
       "id": 3,
-      "name": "Payal",
+      "name": "Amit Kumar",
       "rating": 5,
-      "comment": "I used to be so scared of visiting the dentist, but she has been incredibly patient with me. I've had more than five cavities filled, and she made the process much easier.",
-      "image": "/images/Payal.png"
-    },
-    {
-      "id": 4,
-      "name": "Vaibhav",
-      "rating": 5,
-      "comment": "Dr.Aarathi is our family Dentist , our entire family is taking dental treatment and we are very happy last 13years. Good quality treatment and excellent Dental service prvided. Got dental extraction, teeth cleaning done painless,zero pain.",
-      "image": "/images/Vaibhav.png"
+      "comment": "Professional, punctual, and painless procedures. Highly recommend Dentux!",
+      "image": "/images/testimonial3.jpg"
     }
   ],
   "about": {
