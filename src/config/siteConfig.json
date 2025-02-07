@@ -1,5 +1,5 @@
 {
-  "siteName": "Dentux",
+  "siteName": "Roots & Gums",
   "siteDescription": "Advanced dental care with a personal touch",
   "logo": "/images/logo.png",
   "navigation": {
@@ -16,12 +16,12 @@
     }
   },
   "hero": {
-    "welcomeText": "Welcome to Dentux",
+    "welcomeText": "Welcome to Roots & Gums",
     "title": "Advanced Dental Care",
     "subtitle": "For Your Family",
-    "description": "Experience state-of-the-art dentistry in a warm and caring environment. Our expert dentist is committed to providing you with the highest quality dental care.",
-    "image": "/images/main_bg_image.jpg",
-    "imageAlt": "Modern dental care at Dentux",
+    "description": "Experience state-of-the-art dentistry in a warm and caring environment. Our expert dentists are committed to providing you with the highest quality dental care.",
+    "image": "/images/rootsBg.jpg",
+    "imageAlt": "Modern dental care at Roots & Gums",
     "cta": {
       "primary": {
         "text": "Book Appointment",
@@ -34,25 +34,25 @@
     }
   },
   "contact": {
-    "phone": "+919136654906",
-    "email": "info@dentux.com",
-    "address": "SONAL VIJAY PERMISSES-B1, Shop No. 4, B-1, Ground Floor, Marol Maroshi Rd, Andheri East, Mumbai, Maharashtra 400059",
+    "phone": "+917304809511",
+    "email": "info@rootsandgums.com",
+    "address": "Abu Asad Premises, Military Rd, Sankasth Pada Welfare Society, Marol, Andheri East, Mumbai, Maharashtra 400059",
     "socialLinks": {
       "facebook": "/",
       "instagram": "/",
       "twitter": "/"
     },
-    "whatsapp": "+919136654906",
-    "googleMapsUrl": "https://www.google.com/maps/embed/v1/place?q=Dentux+super+smiles+dental+clinic+(Dr+Monika+ashar),+Apartments,+Marol+Maroshi+Road,+Vijay+Nagar,+MIDC,+Marol,+Andheri+East,+Mumbai,+Maharashtra,+India&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8",
-    "googleFormsUrl": "https://forms.gle/DZ3SYGaHovReDSJWA",
+    "whatsapp": "+917304809511",
+    "googleMapsUrl": "https://www.google.com/maps/embed/v1/place?q=Roots+and+Gums+Dental+Studio&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8",
+    "googleFormsUrl": "https://forms.gle/qqtgVA3UsT95RvaSA",
     "section": {
       "title": "Connect with Us",
       "description": "Have questions? Our friendly team is here to help you achieve optimal dental health.",
-      "whatsappMessage": "Hello! I'd like to schedule an appointment at Dentux.",
+      "whatsappMessage": "Hello! I'd like to schedule an appointment at Roots & Gums.",
       "whatsappButtonText": "Message Us",
       "bookAppointmentText": "Schedule Visit"
     },
-    "hours": "10:00 AM - 1:30 PM & 5:00 PM - 9:00 PM (Closed on Sunday)"
+    "hours": "10:00 AM - 1:00 PM & 4:00 PM - 9:30 PM (Closed on Sunday)"
   },
   "theme": {
     "name": "modern",
@@ -133,36 +133,37 @@
   "testimonials": [
     {
       "id": 1,
-      "name": "Shriya",
+      "name": "Naser",
       "rating": 5,
-      "comment": "I had gone to Dr. Monika Ashar for a root canal treatment. She is very gentle and calm in her approach, has a very patient and approachable attitude, at the same time very technically sound and explained the procedure well. She is one of the few doctors who checks up on you after the treatment is done, Highly recommend her for any dental treatment.",
-      "image": "/images/Shriya.png"
+      "comment": "I had a fantastic experience at Roots and Gums Dental Clinic! The staff was incredibly friendly and professional from the moment I walked in. Dr was thorough in explaining my treatment options and made me feel comfortable throughout the process. The clinic itself is modern, clean, and welcoming, which put me at ease. I especially appreciated how gentle and attentive the team was during my procedure, making sure I was comfortable at every step. I highly recommend Roots and Gums for anyone looking for top-notch dental care!",
+      "image": "/images/testimonials/Naser.png"
     },
     {
       "id": 2,
-      "name": "Daisy",
+      "name": "Diksha",
       "rating": 5,
-      "comment": "Dr. Monika is a well experienced dentist. Treatment was very good. She makes the patient feel very comfortable.",
-      "image": "/images/daisy.png"
+      "comment": "Great experience at Roots and Gums 🦷 Dr. Pradeep Bafna and the whole team were professional, kind, and made me feel super comfortable. Highly recommend for quality dental care! 😊",
+      "image": "/images/testimonials/Diksha.png"
     },
     {
       "id": 3,
-      "name": "Harrison",
+      "name": "Vishakha",
       "rating": 5,
-      "comment": "Dr. Monika is excellent in her work. Also very supportive in terms of booking schedules and has a lot of patience towards her patients! Always recommended for the best results :))",
-      "image": "/images/Harrison.png"
+      "comment": "A very hygienic clinic with all facilities. I would recommend Dr. Pradeep & Dr. Sonali for their professionalism, quality of care & outstanding premises.Thumbs up for the good work!💯👍🤗",
+      "image": "/images/testimonials/Vishakha.png"
     },
     {
       "id": 4,
-      "name": "Sarah",
+      "name": "Leona",
       "rating": 5,
-      "comment": "I had a fantastic experience with Dr. Monika. Dr. Monika's expertise and gentle approach made me feel at ease throughout my treatment. I highly recommend her for top-notch dental care!",
-      "image": "/images/Sarah.png"
+      "comment": "I had a root canal and capping done for my teeth at Roots and Gums Dental Studio, and the treatment was really good. The dental care was careful and thorough. The service was excellent and the dentists were skilled. Making appointments was easy, and the overall way they handled things at the clinic was great.",
+      "image": "/images/testimonials/Leona.png"
     }
   ],
   "about": {
-    "title": "Meet Our Doctor",
-    "description": "She is committed to providing you with the highest quality care in a comfortable environment.",
+    "section_title": "About Our Doctors",
+    "title": "Meet Our Doctors",
+    "description": "They are committed to providing you with the highest quality care in a comfortable environment.",
     "clinicOverview": {
       "title": "Modern Facilities",
       "description": "Experience dental care in our state-of-the-art facility equipped with the latest technology for your comfort and the best possible treatment outcomes.",
@@ -187,10 +188,26 @@
   "team": [
     {
       "id": 1,
-      "name": "Dr. Monika Ashar",
-      "role": "Head Dentist",
+      "name": "Dr. Viren",
+      "role": "Lead Dentist",
       "specialization": "Cosmetic Dentistry",
-      "bio": "Dr. Monika has over 15 years of experience in cosmetic dentistry and is committed to providing the highest quality dental care.",
+      "bio": "Dr. Viren has over 15 years of experience in cosmetic dentistry and is committed to providing the highest quality dental care.",
+      "image": "/images/Male_doctor_placeholder.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Pradeep",
+      "role": "Lead Dentist",
+      "specialization": "Cosmetic Dentistry",
+      "bio": "Dr. Pradeep has over 15 years of experience in cosmetic dentistry and is committed to providing the highest quality dental care.",
+      "image": "/images/Male_doctor_placeholder.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Sonali",
+      "role": "Lead Dentist",
+      "specialization": "Cosmetic Dentistry",
+      "bio": "Dr. Sonali has over 15 years of experience in cosmetic dentistry and is committed to providing the highest quality dental care.",
       "image": "/images/Doctor_placeholder.jpg"
     }
   ],

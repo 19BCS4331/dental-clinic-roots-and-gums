@@ -93,7 +93,7 @@ export default function About() {
           >
             <div className="space-y-6">
               <span className="text-primary-600 font-medium block">
-                About Our Doctor
+                {about.section_title}
               </span>
 
               <h2 className="text-3xl sm:text-4xl font-playfair font-bold text-gray-900">
@@ -127,25 +127,30 @@ export default function About() {
 
               {/* Professional Signature Section */}
               <div className="mt-8 border-t border-gray-100 pt-6">
-                <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4">
-                  <div className="flex-shrink-0">
-                    <div className="relative w-16 h-16 rounded-full overflow-hidden">
-                      <Image
-                        src={team[0].image}
-                        alt={team[0].name}
-                        fill
-                        className="object-cover"
-                      />
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                  {team.map((member) => (
+                    <div key={member.id} className="flex flex-col sm:flex-row items-start gap-4">
+                      <div className="flex-shrink-0">
+                        <div className="relative w-16 h-16 rounded-full overflow-hidden">
+                          <Image
+                            src={member.image}
+                            alt={member.name}
+                            fill
+                            className="object-cover"
+                          />
+                        </div>
+                      </div>
+                      <div className="flex flex-col">
+                        <div className="flex items-center gap-3 flex-wrap">
+                          <h4 className="text-xl font-playfair font-bold text-gray-900">{member.name}</h4>
+                          <div className="h-4 w-px bg-primary-200"></div>
+                          <p className="text-primary-600 font-medium">{member.role}</p>
+                        </div>
+                        <p className="text-sm text-primary-500 mt-1">{member.specialization}</p>
+                        <p className="mt-2 text-gray-600 text-sm">{member.bio}</p>
+                      </div>
                     </div>
-                  </div>
-                  <div className="flex flex-col">
-                    <div className="flex items-center gap-3">
-                      <h4 className="text-xl font-playfair font-bold text-gray-900">{team[0].name}</h4>
-                      <div className="h-4 w-px bg-primary-200"></div>
-                      <p className="text-primary-600 font-medium">{team[0].role}</p>
-                    </div>
-                    <p className="mt-2 text-gray-600">{team[0].bio}</p>
-                  </div>
+                  ))}
                 </div>
               </div>
             </div>
